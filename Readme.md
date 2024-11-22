@@ -16,7 +16,7 @@ As of version 1.7.1, SN-GO now remakes all the planets and reassigns several spa
 
 1. Add any of the custom ships not found in the vanilla scenarios from Supernova Shipyard.
 
-This mod should be compatible with everything that doesn't change shan's, so it should work with ShipVariants, weapon fixes etc. 
+This mod should be compatible with everything that doesn't change shans, so it should work with ShipVariants, weapon fixes etc. 
 
 The contents of this mod are available under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
