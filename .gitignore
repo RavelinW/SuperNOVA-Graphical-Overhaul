@@ -1,0 +1,33 @@
+debuglog.txt
+*.plt
+Nova Files/
+*.lnk
+*.ttf
+*.ini
+*.exe
+*.dll
+Nova.rez
+*.7z
+Nova Plug-ins/Full Screen Map.rez
+Nova Plug-ins/Map Size 1920x1080.rez
+Nova Plug-ins/Nova Roid Fix 100.rez
+Nova Plug-ins/Virtue Buttons.rez
+Nova Plug-ins/b Virtue Buttons.rez
+Nova Plug-ins/b Nova Roid Fix 100.rez
+Nova Plug-ins/b New Char.rez
+Nova Plug-ins/b Map Size 1920x1080.rez
+Nova Plug-ins/b Full Screen Map.rez
+Plug-in Storage/b Virtue Buttons.rez
+Plug-in Storage/b Nova Roid Fix 100.rez
+Plug-in Storage/b New Char.rez
+Plug-in Storage/b Map Size 1920x1080.rez
+Plug-in Storage/b Full Screen Map.rez
+QuickTime.qtp
+QuickTime.qts
+QuickTimeInternetExtras.qtx
+QuickTimeMPEG4.qtx
+crt-hyllian.glsl
+b Virtue Buttons.rez
+b New Char.rez
+b INTF.rez
+Pilots/Last Pilot
