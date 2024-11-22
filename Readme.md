@@ -1,6 +1,6 @@
 # SuperNOVA Graphical Overhaul
 
-This adds boosted ship sizes, as well as unique shields, engine glows, running lights, visually appropriate weapon exit points, and weapon glows for every ship.
+A mod that replaces EV Nova's ship graphics, planets and projectiles with Supernova Shipyard graphics. This boosts ship sizes, as well as adds unique shields, engine glows, running lights, visually appropriate weapon exit points, and weapon glows for every ship.
  
 Originally uploaded to [Nexus Mods](https://www.nexusmods.com/escapevelocitynova/mods/6) on 28 April 2021 2:27PM by DrFiveMinusMinus who took the initiative to adapt Supernova Shipyard's graphics to EV Nova. Since heavily modified by RavelinW to better suit EV Nova's original look. It's also available on [Github](https://github.com/RavelinW/SuperNOVA-Graphical-Overhaul), where the latest version is always found.
 
