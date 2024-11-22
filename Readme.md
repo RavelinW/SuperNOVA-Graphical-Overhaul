@@ -6,11 +6,9 @@ Originally uploaded to [Nexus Mods](https://www.nexusmods.com/escapevelocitynova
 
 ## What this mod does:
 
-Replaces the vanilla ship spritesheets, and the target, hail and info pictures with their [Supernova Shipyard](https://github.com/RavelinW/Supernova-Shipyard) equivalents. You do not have to have Supernova Shipyard installed to use this mod.
+Replaces the ships and their target, hail and info pictures with their [Supernova Shipyard](https://github.com/RavelinW/Supernova-Shipyard) equivalents. It also replaces projectiles and planets. You do not have to have Supernova Shipyard installed to use this mod.
 
-As of version 1.4.0, SN-GO also makes graphical changes to select weapon resources based on Nova 1.1 (last mac version's) data.
-
-As of version 1.7.1, SN-GO now remakes all the planets and reassigns several space object types as well as adjusting planetary spacing so that the new sprites don't overlap.
+Originally uploaded to Nexus Mods on 28 April 2021 2:27PM by DrFiveMinusMinus who took the initiative to adapt Supernova Shipyard's graphics to EV Nova. Since heavily modified by RavelinW to better suit EV Nova's original look.
 
 ## What this mod does not do:
 
